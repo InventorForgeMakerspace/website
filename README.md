@@ -1,6 +1,6 @@
-# Dundee MakerSpace Theme
+# Inventor Forge MakerSpace Theme
 
-This is the theme for the [Dundee MakerSpace website](http://www.terminalpixel.co.uk/)
+This is the theme for the [Inventor Forge MakerSpace website](http://www.inventorforgemakerspace.org/)
 
 
 ## Requirements
