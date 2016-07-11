@@ -1,6 +1,6 @@
 {
-  "author": "Terminal Pixel <blether@terminalpixel.co.uk>",
-  "name": "terminally-pixelated",
+  "author": "Nathan Byrd <techy1@gmail.com>",
+  "name": "inventorforge-pixelated",
   "description": "A bare-bones WordPress theme built with grunt and Sass",
   "version": "0.0.1",
   "devDependencies": {
