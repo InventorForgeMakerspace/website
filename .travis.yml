@@ -3,6 +3,7 @@ node_js: node
 
 install:
     - npm install -g bower
+    - npm install -g grunt
     - npm install
     - bower install
     - grunt bowercopy
