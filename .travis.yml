@@ -1,10 +1,11 @@
 language: node_js
 node_js: node
-
 install:
-    - npm install -g bower
-    - npm install -g grunt
-    - npm install
+- npm install -g bower
+- npm install -g grunt
+- npm install
 script:
-    - grunt build
-
+- grunt build
+notifications:
+  slack:
+    secure: KXXu28DjS9sfW2ly6a9WK/U7gBYzYWXMJwp1HfRNKWIdPO8k4dN7R6oBnSy/hOEND8ZTLCmEWUtJCW9S4Ca2FBVGJ46LRmlmluvOghVtZAmpBl/ONW60uy1fwarcN89MUF4hBG+j76IKOy4YN1bCuIFxieUcOtlpkGcNSl3HE1IlgnPri2rFZ8W5LCASPU15oNW9ve77t/ddVBtHhbGc2m4RbVwkrBUC+3sivBIXnnrFr4C+6mqhmnKBbcE8Tu7cAd2vKj+0k0Ez9N9TGRJGOqxlU+0TqgjEVc/s9ZVbFadG4wUr87NfeGMwqDb5pGpUnvPH3K9s4VR86vYHIYj0rHU6RFMXsbGO6qJJx+8rHEJOOhN7WAdPx6Qn9Ez3fOcsGtEyXRlr+xaawW/0MnXcI5lqcSDRbvP6prK/eLtuLIclJJGYm17oGr5GZxPiBHJHZrhLD/UKKI2+egFkOUQWhz5TruivQLp00ZO4TW34uA/Hg32P+tmWvv9mOdikQKsKmoEGjlnAmIT1acgggTxlpdloZ05yv6ZW3UeQAlL1opjlDceISbYQ4CS8Rk8mrha7L8bgxOkWQ4uyRIJpx3emXSfEScp6Q0HR61QrCYjmouFVAks6dBh24anVyCx6v2z3K4qH6Sb8cbKcNA35zG+6HrgbHHqdbOpy4otll0bqZs4=
