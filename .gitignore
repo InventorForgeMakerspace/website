@@ -1,17 +1,23 @@
+# Package management caches
 node_modules
-.sass-cache
 bower_components
-scss/vendor
 fonts/footable*
+
+# Compiled JavaScript resources
 js/vendor
 js/main.min.js
-*.map
+
+# Icons are generated from icons/icon.*.png
 icons/apple*
 icons/windows*
 icons/favicon*
 icons/homescreen*
 views/partials/icons.twig
+
+# CSS and some other artifacts are generated from SASS
+.sass-cache
+scss/vendor
+*.map
 main.css
 style.css
 editor-style.scss
-website
