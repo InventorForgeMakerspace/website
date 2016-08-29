@@ -9,6 +9,7 @@ js/main.min.js
 icons/apple*
 icons/windows*
 icons/favicon*
+icons/homescreen*
 views/partials/icons.twig
 main.css
 style.css
