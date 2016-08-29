@@ -1,4 +1,4 @@
-# Inventor Forge MakerSpace Theme
+# Inventor Forge MakerSpace Theme [![Build Status](https://travis-ci.org/InventorForgeMakerspace/website.svg?branch=master)](https://travis-ci.org/InventorForgeMakerspace/website)
 
 This is the theme for the [Inventor Forge MakerSpace website](http://www.inventorforgemakerspace.org/)
 
